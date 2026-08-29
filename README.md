@@ -2,7 +2,7 @@
 
 Développeur web · WordPress, JavaScript & intégrations sur mesure — Charleroi, Belgique.
 
-Six ans d'expérience entre agence et indépendant, complétés par une formation de responsable en communication digitale. En recherche d'un poste en équipe.
+Six ans d'expérience entre agence et indépendant, complétés par une formation de responsable en communication digitale. Disponible pour des missions freelance ponctuelles — dépannage, corrections et petites évolutions WordPress.
 
 ## Projets
 
@@ -19,4 +19,4 @@ WordPress · WooCommerce · Elementor · PHP · JavaScript · SQL · API REST ·
 
 ## Contact
 
-[boukamir.be](https://boukamir.be) · [linkedin.com/in/yboukamir](https://linkedin.com/in/yboukamir) · yboukamir@gmail.com
+[boukamir.be](https://boukamir.be) · [linkedin.com/in/yboukamir](https://linkedin.com/in/yboukamir) · yboukamir@gmail.com · [Fiverr](https://fr.fiverr.com/s/BbBa7kl)
